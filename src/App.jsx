@@ -66,7 +66,7 @@ export default function App() {
             <div className="flex flex-col items-center justify-center">
               <img
                 className="pokeball-jump w-32 h-32 mb-10"
-                src="/imgs/Pokeball.png"
+                src="./imgs/Pokeball.png"
               />
               <div className="text-center mt-2 mb-2 uppercase font-extrabold">
                 Choose your Pokémon
