@@ -6,7 +6,7 @@
 
 <h3 align="center"> 🚧 PROJECT IN CONSTANT DEVELOPMENT 🚧</h3>
 
-<div align="center">
+<div>
     <h1>HOW DOES IT WORKS</h1>
         <ul>
         <li>To run it locally you can clone or download the reliository</li>
@@ -15,7 +15,7 @@
         </ul>
 </div>
 
-<div align="center">
+<div>
     <h1>Technologies Used</h1>
         <ul>
             <li>JavaScript</li>
