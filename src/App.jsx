@@ -58,7 +58,7 @@ export default function App() {
                 src={pokemon.sprites.versions['generation-v']['black-white']['animated']['front_default']}
               />
               <div className="text-center mt-2 mb-2 uppercase font-extrabold">
-                {pokemonNumber} - {pokemon.name} <br />
+                {pokemon.id} - {pokemon.name} <br />
                 Height: {pokemon.height * 10} cm | Weight: {pokemon.weight / 10} kg <br />
               </div>
             </div>
